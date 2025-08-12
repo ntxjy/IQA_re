@@ -1,0 +1,17 @@
+proto_src/
+protoc-*.zip
+protoc/
+__pycache__
+docs/_*
+build
+dist
+*.egg-info
+runs/*
+*.pyc
+mnist
+tensorboardX/_version.py
+s3:
+.coverage
+.vscode
+.DS_store
+uv.lock
